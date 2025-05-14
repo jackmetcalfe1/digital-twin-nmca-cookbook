@@ -1,6 +1,6 @@
 ### Welcome to the Digital Twin cookbook for NMCAs. 
 
-<img src="cookbook.png" width="300" alt="Description">
+<img src="assets/cookbook.png" width="300" alt="Description">
 
 This repository is a collection of resources, research and discussion on how NMCAs can best engage with Digital Twins. 
 
@@ -30,7 +30,7 @@ The repository contains resources, research and discussion on the following topi
 
 This project is currently being developed by Jack Metcalfe, a PhD student at University College London, UK and is being funded by EuroSDR. Please do not hesitate to get in touch with any questions, comments or feedback at jack.metcalfe.16@ucl.ac.uk. 
 
-<img src="eurosdr_logo_rectangle-2.jpg" width="300" alt="Description">
+<img src="assets/eurosdr_logo_rectangle-2.jpg" width="300" alt="Description">
 
 
 
