@@ -2,28 +2,13 @@
 
 This repository is a collection of resources, research and discussion on how NMCAs can best engage with Digital Twins. 
 
-If it is your first time here, it is advised that you start by reading the sections on why we need a DT cookbook for NMCAs, the intentions of this repository, the "cookbook" concept, how to use this repository and who the repository is for. 
+If it is your first time here, it is advised that you start by reading the sections on the need for a DT cookbook for NMCAs, the intentions of this repository, the "cookbook" concept, how to use this repository and who the repository is for. 
+
+The repository contains resources, research and discussion on the following topics: 
+- [What is a Digital Twin?](what-is-a-digital-twin/README.md)
 
 
 
 
 
-
-
-
-
-
-
-
-The purpose of this cookbook is to be a living resource for NMCAs on how to engage with Digital Twins. 
-
-Phase 1 of this project will look at the value of NMCA contributions etc. and can be found in [what is a digital twin section](what-is-a-digital-twin/README.md)
-
-
-
-```
-commit 123
-```
-
-![Logo](90.png)
 
