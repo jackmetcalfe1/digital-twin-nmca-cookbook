@@ -1,5 +1,9 @@
 ### Welcome to the Digital Twin cookbook for NMCAs. 
 
+![Logo](ChatGPT Image May 14, 2025 at 04_15_15 PM.png)
+
+
+
 This repository is a collection of resources, research and discussion on how NMCAs can best engage with Digital Twins. 
 
 If it is your first time here, it is advised that you start by reading the sections on [the need for a DT cookbook for NMCAs](why-we-need-a-DT-cookbook.md), [the intentions of this cookbook](cookbook-aims.md), [the "cookbook" concept](the-cookbook-concept.md), [how to use this repository](how-to-use-this-repository.md) and [who the repository is for](intended-audience.md). These sections will provide the necessary context to get the most out of the repository. 
