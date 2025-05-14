@@ -1,2 +1,2 @@
-### The role of NMCAs in Digital Twins
+### How NMCAs can contribute to Digital Twins
 
