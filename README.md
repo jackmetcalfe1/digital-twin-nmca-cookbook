@@ -23,7 +23,7 @@ The repository contains resources, research and discussion on the following topi
 
 - [**A business case template for NMCAs in Digital Twins**](nmca-digital-twin-business-case.md): *Template for developing business cases for engaging with Digital Twins including the value exchange, cost-benefit analysis and strategies to obtain funding.*
 
-This project is currently being developed by Jack Metcalfe, a PhD student at University College London, UK. Please do not hesitate to get in touch with any questions, comments or feedback at jack.metcalfe.16@ucl.ac.uk. 
+This project is currently being developed by Jack Metcalfe, a PhD student at University College London, UK and is being funded by EuroSDR. Please do not hesitate to get in touch with any questions, comments or feedback at jack.metcalfe.16@ucl.ac.uk. 
 
 
 
