@@ -15,13 +15,13 @@ The repository contains resources, research and discussion on the following topi
 
 - [**Digital Twin Use Cases**](digital-twin-use-cases/README.md):
     - [*Summary of Digital Twin use cases*](digital-twin-use-cases/use-cases-overview.md)
-    - *Case studies of note*
     - *Different use case complexities such as [basic](digital-twin-use-cases/basic-use-cases.md) or [complex](digital-twin-use-cases/complex-use-cases)*
     - [*Developing new use cases*.](digital-twin-use-cases/establishing-new-use-cases.md)
 
-- [**Different Roles of NMCAs in Digital Twins**](role-nmca-in-digital-twins/README.md):
+- [**The Different Roles of NMCAs in Digital Twins**](role-nmca-in-digital-twins/README.md):
     - *[Different NMCA contributions to domain-specific digital twins](role-of-nmca-in-digital-twins/role-of-nmcas-in-domain-specific-digital-twins.md)*
     - *[NMCA contributions to scaling digital twins in a connected digital twin environment](role-of-nmca-in-digital-twins/role-of-nmcas-in-scaling-digital-twins.md)*.
+    - *Case studies that highlight these different role*
 
 - [**A business case template for NMCAs in Digital Twins**](nmca-digital-twin-business-case.md):
     - *Template for developing business cases for engaging with Digital Twins including the [value of digital twins to NMCAs](nmca-digital-twin-business-case/value-of-digital-twins-to-nmcas.md) and the [value of NMCAs to digital twins](nmca-digital-twin-business-case/value-of-nmcas-to-digital-twins.md)*
