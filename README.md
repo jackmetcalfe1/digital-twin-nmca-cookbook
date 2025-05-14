@@ -1,6 +1,6 @@
 ### Welcome to the Digital Twin cookbook for NMCAs. 
 
-![Logo](ChatGPT Image May 14, 2025 at 04_15_15 PM.png)
+![Logo](cookbook.png)
 
 
 
