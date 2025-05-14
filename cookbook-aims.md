@@ -19,7 +19,8 @@ intention is for this cookbook to be useful to all types of NMCA and contexts in
 Europe including those that are yet to engage with DTs and are still questioning
 the relevance/importance of any engagement and those that are looking to
 move beyond individual DT projects to enabling connected DTs.
+
 Thirdly, and perhaps the least explicit of this cookbook’s intentions, is to provide
 a call-to-action to NMCAs and the Geospatial community as a whole to engage
-with and
+with and offer their experience dealing with location data to realise the value of DTs. 
 
