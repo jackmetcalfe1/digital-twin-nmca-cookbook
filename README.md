@@ -8,10 +8,14 @@ The repository contains resources, research and discussion on the following topi
 
 - [**What is a Digital Twin and why should we care about them?**](what-is-a-digital-twin/README.md):
     - *Introduction to the digital twin concept and [components](what-is-a-digital-twin/digital-twin-components.md)*
-    - *Discussion on [what a DT is, for NMCAs]*
+    - *Discussion on [what a DT is, for NMCAs](what-is-a-digital-twin-for-NMCAs.md)*
     - *Introduction to [connected digital twins](what-is-a-digital-twin/connected-digital-twins.md).*
 
-- [**Digital Twin Use Cases**](digital-twin-use-cases/README.md): *Summary of Digital Twin use cases; noteable case studies; basic and complex use cases and developing new use cases*.
+- [**Digital Twin Use Cases**](digital-twin-use-cases/README.md):
+    - *Summary of Digital Twin use cases*
+    - *Case studies of note*
+    - *Use case complexities*
+    - *Developing new use cases*.
 
 - [**Different Roles of NMCAs in Digital Twins**](role-nmca-in-digital-twins/README.md): *Different NMCA contributions to [domain-specific digital twins](role-of-nmca-in-digital-twins/role-of-nmcas-in-domain-specific-digital-twins.md) and [scaling digital twins in a connected environment](role-of-nmca-in-digital-twins/role-of-nmcas-in-scaling-digital-twins.md)*.
 
