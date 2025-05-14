@@ -9,5 +9,5 @@ Phase 1 of this project will look at the value of NMCA contributions etc. and ca
 commit 123
 ```
 
-![Alt text](geospatial-digital-twin/90.png)
+![Logo](geospatial-digital-twin/90.png)
 
