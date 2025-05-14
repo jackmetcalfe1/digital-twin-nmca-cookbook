@@ -1,7 +1,6 @@
 ### Welcome to the Digital Twin cookbook for NMCAs. 
 
-![Logo](cookbook.png)
-
+<img src="cookbook.png" width="200" alt="Description">
 
 
 This repository is a collection of resources, research and discussion on how NMCAs can best engage with Digital Twins. 
