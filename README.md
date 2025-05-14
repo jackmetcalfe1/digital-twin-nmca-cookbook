@@ -12,10 +12,10 @@ The repository contains resources, research and discussion on the following topi
     - *Introduction to [connected digital twins](what-is-a-digital-twin/connected-digital-twins.md).*
 
 - [**Digital Twin Use Cases**](digital-twin-use-cases/README.md):
-    - *Summary of Digital Twin use cases*
+    - [*Summary of Digital Twin use cases*](digital-twin-use-cases/use-cases-overview.md)
     - *Case studies of note*
-    - *Different use case complexities*
-    - *Developing new use cases*.
+    - *Different use case complexities such as [basic](digital-twin-use-cases/basic-use-cases.md) or [complex](digital-twin-use-cases/complex-use-cases)*
+    - [*Developing new use cases*.](digital-twin-use-cases/establishing-new-use-cases.md)
 
 - [**Different Roles of NMCAs in Digital Twins**](role-nmca-in-digital-twins/README.md):
     - *Different [NMCA contributions to domain-specific digital twins](role-of-nmca-in-digital-twins/role-of-nmcas-in-domain-specific-digital-twins.md)
