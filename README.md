@@ -6,7 +6,7 @@ If it is your first time here, it is advised that you start by reading the secti
 
 The repository contains resources, research and discussion on the following topics: 
 - [What is a Digital Twin and why should we care about them?](what-is-a-digital-twin/README.md): *introduction to the digital twin concept, components and use cases; discussion on what a DT is, and why they are important, for NMCAs; introduction to connected digital twins.*
-- 
+- [Role of NMCAs in Digital Twins]
 - 
 
 
