@@ -23,7 +23,10 @@ The repository contains resources, research and discussion on the following topi
     - *[Different NMCA contributions to domain-specific digital twins](role-of-nmca-in-digital-twins/role-of-nmcas-in-domain-specific-digital-twins.md)*
     - *[NMCA contributions to scaling digital twins in a connected digital twin environment](role-of-nmca-in-digital-twins/role-of-nmcas-in-scaling-digital-twins.md)*.
 
-- [**A business case template for NMCAs in Digital Twins**](nmca-digital-twin-business-case.md): *Template for developing business cases for engaging with Digital Twins including the value exchange, cost-benefit analysis and strategies to obtain funding.*
+- [**A business case template for NMCAs in Digital Twins**](nmca-digital-twin-business-case.md):
+    - *Template for developing business cases for engaging with Digital Twins including the [value of digital twins to NMCAs](nmca-digital-twin-business-case/value-of-digital-twins-to-nmcas.md) and the [value of NMCAs to digital twins](nmca-digital-twin-business-case/value-of-nmcas-to-digital-twins.md)*
+    - *[Market and stakeholder analysis](nmca-digital-twin-business-case/digital-twin-market-and-stakeholder-analysis.md)*
+    - *[Strategies to obtain funding for digital twin projects.](nmca-digital-twin-business-case(nmca-funding strategies.md)*
 
 This project is currently being developed by Jack Metcalfe, a PhD student at University College London, UK and is being funded by EuroSDR. Please do not hesitate to get in touch with any questions, comments or feedback at jack.metcalfe.16@ucl.ac.uk. 
 
