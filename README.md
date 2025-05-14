@@ -1,6 +1,8 @@
 ### Welcome to the Digital Twin cookbook for NMCAs. 
 
-This repository is a collection of resources, research and discussion on how NMCAs can best engage with Digital Twins. This file covers why we need a DT cookbook for NMCAs, the intentions of this repository, the "cookbook" concept, how to use this repository and who the repository is for. 
+This repository is a collection of resources, research and discussion on how NMCAs can best engage with Digital Twins. 
+
+If it is your first time here, it is advised that you start by reading the sections on why we need a DT cookbook for NMCAs, the intentions of this repository, the "cookbook" concept, how to use this repository and who the repository is for. 
 
 
 
