@@ -1,4 +1,4 @@
-### What is a Digital Twin?
+### Digital Twin Concepts and the NMCA perspective
 
 This section of the repository deals with understanding the digital twin concept and what it means for NMCAs.
 
